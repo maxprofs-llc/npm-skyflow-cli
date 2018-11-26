@@ -6,7 +6,7 @@
 
 <h1 align="center">Best friend of the developer</h1>
 
-[![Join the chat](extra/images/badge.svg)](https://skyflow-cli.slack.com)
+[![Join the chat](extra/images/badge.svg)](https://join.slack.com/t/skyflow-cli/shared_invite/enQtNDg4MDIyODQ3Njg0LWYwMTUxZGM3NmQ3MGJhZTA3MDAzNTcwYWM2MzFjNzZmNzAzOWUxZjQ1YTkwMjVkNzU1NjUyMmM2Yjc1ZDI3NzQ)
 
 **Skyflow-cli** is a command line interface that makes projects setup easier for developers, even for development and production environments.
 
