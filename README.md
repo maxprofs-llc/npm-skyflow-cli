@@ -1,12 +1,18 @@
 <div align="center">
     <a href="https://skyflow.io/">
-        <img width="300" src="extra/images/skyflow.png">
+        <img width="300" src="extra/images/skyflow.svg">
     </a>
+    <br>
+    <br>
+
+[![Join the chat](extra/images/badges/node.svg)][node-url]
+[![Join the chat](extra/images/badges/npm.svg)][npm-url]
+[![Join the chat](extra/images/badges/slack.svg)][slack-url]
+
 </div>
 
 <h1 align="center">Best friend of the developer</h1>
 
-[![Join the chat](extra/images/badge.svg)](https://join.slack.com/t/skyflow-cli/shared_invite/enQtNDg4MDIyODQ3Njg0LWYwMTUxZGM3NmQ3MGJhZTA3MDAzNTcwYWM2MzFjNzZmNzAzOWUxZjQ1YTkwMjVkNzU1NjUyMmM2Yjc1ZDI3NzQ)
 
 **Skyflow-cli** is a command line interface that makes projects setup easier for developers, even for development and production environments.
 
@@ -98,3 +104,9 @@ We are working on the contributing model for Skyflow, it's coming soon 😀
 ## License
 
 Skyflow-cli is [Apache licensed](LICENSE).
+
+
+
+[node-url]: https://nodejs.org
+[npm-url]: https://www.npmjs.com/package/skyflow-cli
+[slack-url]: https://join.slack.com/t/skyflow-cli/shared_invite/enQtNDg4MDIyODQ3Njg0LWYwMTUxZGM3NmQ3MGJhZTA3MDAzNTcwYWM2MzFjNzZmNzAzOWUxZjQ1YTkwMjVkNzU1NjUyMmM2Yjc1ZDI3NzQ
