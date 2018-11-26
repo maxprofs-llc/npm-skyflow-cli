@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://skyflow.io/">
-        <img width="300" src="extra/images/skyflow.svg">
+        <img width="200" height="200" src="extra/images/skyflow.svg">
     </a>
     <br>
     <br>
@@ -11,7 +11,7 @@
 
 </div>
 
-<h1 align="center">Best friend of the developer</h1>
+<h1 align="center">Skyflow CLI - Best friend of the developer</h1>
 
 
 **Skyflow-cli** is a command line interface that makes projects setup easier for developers, even for development and production environments.
