@@ -2,3 +2,4 @@
 /node_modules/
 /docker/
 /skyflow.config.js
+/yarn.lock
